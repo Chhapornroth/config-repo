@@ -1,4 +1,4 @@
-message: "Hello from Production Environment"
+message: "Hello from Development Environment"
 
 inventory:
   max-items: 500
